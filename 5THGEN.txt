@@ -1,7 +1,7 @@
                             Fifth Generation: Artificial Intelligence (Present and Beyond)
 			-------------------------------------------------------------------
 														
-																									HISTORY:
+																		HISTORY:
 								-------
 																									
 Fifth generation computing devices, based on artificial intelligence, are still in development, though there are some applications, such as voice recognition, that are being used today. The use of parallel processing and superconductors is helping to make artificial intelligence a reality.
@@ -20,7 +20,7 @@ The goal of fifth-generation computing is to develop devices that respond to nat
 					-->More user-friendly interfaces with multimedia features.
 					-->Availability of very powerful and compact computers at cheaper rates.
 												
-																						DISADVANTAGES of Fifth Generation of Computers:
+																	DISADVANTAGES of Fifth Generation of Computers:
 					----------------------------------------------
 																	
 		» They tend to be sophisticated and complex tools.
