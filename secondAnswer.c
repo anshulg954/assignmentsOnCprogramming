@@ -2,14 +2,14 @@
 
 int main()
 {
-  int i;
-  int j;
+  int M;
+  int N;
   printf("ENTER THE NUMBERS");
-  scanf("%d" %d", &i, &j);
+  scanf("%d\n %d", &M, &N);
   
-  if(i%j == 0)
+  if(M%N == 0)
   {
-    prinf("%d", (i/j));
+    prinf("%d", (M/N));
   }
   
   else
